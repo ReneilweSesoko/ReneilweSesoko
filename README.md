@@ -1,5 +1,5 @@
-Hi there 👋, I'm **Reneilwe Sesoko**
-====================================
+<h1 align="center">Hi 👋, I'm Reneilwe Sesoko</h1>
+<h3 align="center">Front-End Developer</h3>
 
 <!--
 **ReneilweSesoko/ReneilweSesoko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
